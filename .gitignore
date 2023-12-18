@@ -31,3 +31,20 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Eclipse ###
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+.DS_Store
